@@ -119,3 +119,26 @@ padding-bottom: 30px;
 text-align: center;
 }
 
+.dungeon {
+background-color: #4E3A3C;
+padding-bottom: 120px;
+}
+
+.contacts-location {
+color: #FFFF;
+font-size: 40px;
+font-weight: 600;
+}
+
+.contacts-location-text {
+font-size: 32px;
+font-weight: 500;
+color: #FFFF;
+margin-top: 30px;
+}
+
+.dungeon-li {
+font-size: 28px;
+font-weight: 400;
+color: #FFFF;
+}
